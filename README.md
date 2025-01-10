@@ -1,5 +1,5 @@
-# Freeze
-Freeze is a Windows application that allows you to freeze one monitor in a dual-monitor setup for presentations.
+# FreeZe
+FreeZe is a Windows application that allows you to freeze one monitor in a dual-monitor setup for presentations.
 
 ## Features
 - Pause your presentation screen with a hotkey (default: CTRL-SHIFT-Z)
